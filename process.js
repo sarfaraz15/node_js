@@ -1,0 +1,5 @@
+console.log(process.pid)
+console.log(process.cwd())
+console.log(process.version)
+console.log(process.env.USERNAME)
+console.log(process.env.USERPOFILE)
